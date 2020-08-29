@@ -26,10 +26,19 @@
  11. obj.some_method(x,y,z) almost every object has attached functions, known as methods, that have access to the object's internal contents. 
  12. like result = f(a,b,c,d=5,e='foo'). functions can take both positional and keyword arguments.
  13. isinstance(a, int) or isinstance(a,(int, float)) can help check that a object's type is a particular type or among those present in the tuple.
- 14, a list can beed nodified, but a tuple can't been modified.
+ 14. a list can beed nodified, but a tuple can't been modified.
      >>> l = [4,5,6]
      >>> tuple(l)
       (4, 5, 6)
        we can change the list to tuple through this way.
- 15. 
+ 15. b = a.replace('string','long string') can change a string through this way.
+ 16. strings are a sequence of unicode characters and therefore can be treated like other sequences, such as a list or tuples???(need explore more in the future)
+ 17. the back slash character \ is an escape character, meaning that it is used to specify special character like newlinw \n or Unicode characters. need escape them.
+ 18.the 'r' stand for raw.
+ 19.template = '{0:.2f}{1:s}' are worth US${2:d}  
+   -{0:.2f} means to format the first argument as a floating-point number with two decimal places.
+   - {1:s} means to format the second argument as a string.
+   - {2:d} means to format the third argument as an exact interger.
+   then sue template.format(4.5560,'Argentine Pesos', 1) can apply the values to the function of template.
+ 20.bool(0) ## 0  default means False, but i is default mean True. any non 0 value is true. 
     
