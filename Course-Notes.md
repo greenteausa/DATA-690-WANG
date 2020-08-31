@@ -34,11 +34,11 @@
  15. b = a.replace('string','long string') can change a string through this way.
  16. strings are a sequence of unicode characters and therefore can be treated like other sequences, such as a list or tuples???(need explore more in the future)
  17. the back slash character \ is an escape character, meaning that it is used to specify special character like newlinw \n or Unicode characters. need escape them.
- 18.the 'r' stand for raw.
- 19.template = '{0:.2f}{1:s}' are worth US${2:d}  
+ 18. the 'r' stand for raw.
+ 19. template = '{0:.2f}{1:s}' are worth US${2:d}  
    -{0:.2f} means to format the first argument as a floating-point number with two decimal places.
    - {1:s} means to format the second argument as a string.
    - {2:d} means to format the third argument as an exact interger.
    then sue template.format(4.5560,'Argentine Pesos', 1) can apply the values to the function of template.
- 20.bool(0) ## 0  default means False, but 1 is default mean True. any non 0 value is true. 
+ 20. bool(0) ## 0  default means False, but 1 is default mean True. any non 0 value is true. 
     
