@@ -12,7 +12,7 @@ Write and submit a research proposal in the **Markdown** format that answers the
 
 ### 1. What is your issue of interest (provide sufficient background information)?
 
-I know sepsis is a kind of acute and serious disease and hard to diagnosis which could delay the treatment. If the sepsis could be predicted on early stage, it  could be very helpful for many patients.
+I know sepsis is a kind of acute and serious disease and hard to diagnose which could delay the treatment. If the sepsis could be predicted on early stage, it  could be very helpful for many patients.
 The medical diagonosis on sepsis involves checking a variety of infectious pathogens and other parameters including vital signs, lab test results. These features are quite diverse among individuals, which makes it chanllege to extract important features. This project aims to analysis the data and try to extract important features for sepsis prediction.
 
 
