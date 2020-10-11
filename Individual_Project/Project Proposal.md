@@ -12,7 +12,7 @@ Write and submit a research proposal in the **Markdown** format that answers the
 
 ### 1. What is your issue of interest (provide sufficient background information)?
 
-Sepsis is a kind of acute and life-threatening disease and needs to be diagnosed and treated quickly to avoid further damages in tissue and organs. Delayed treatment can lead to death. If the sepsis could be predicted at early stage, it could be very helpful for many patients.
+There are about 1.7 million people develop sepsis and 270,000 people die from sepsis every year in US. Sepsis is a kind of acute and life-threatening disease and needs to be diagnosed and treated quickly to avoid further damages in tissue and organs. Delayed treatment can lead to death. If the sepsis could be predicted at early stage, it could be very helpful for many patients.
 
 Sepsis is caused by the body's overactive reaction on infection usually caused by bacteria. The infection always starts with a small cut that then gets infected. Later on, the infection spreads in lung, stomach, kidney or bladder. Risk factors of sepsis include age, weak immune system, chronic conditions. 
 
