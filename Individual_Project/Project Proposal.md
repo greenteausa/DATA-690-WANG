@@ -14,7 +14,7 @@ Write and submit a research proposal in the **Markdown** format that answers the
 
 There are about 1.7 million people who develop sepsis and 270,000 deaths from sepsis every year in US. Sepsis is a kind of acute and life-threatening disease and needs to be diagnosed and treated quickly to avoid further damages in tissue and organs. Delayed treatment can lead to death. If the sepsis could be predicted at early stage, it could be very helpful for many patients.
 
-Sepsis is caused by the body's overactive reaction on infection usually caused by bacteria. The infection always starts with a small cut that then gets infected. Later on, the infection spreads in lung, stomach, kidney or bladder. Risk factors of sepsis include age, weak immune system, chronic conditions. 
+Sepsis is caused by the body's overactive reaction on infection usually caused by bacteria. The infection always starts with a small cut that then gets infected. Later on, the infection spreads in lung, stomach, kidney or bladder. Sepsis can also be caused by the infection during surery, the use of urinary catheter and other medical operations with a risk of infection. Risk factors of sepsis include age, weak immune system, chronic conditions. 
 
 The medical diagonosis on sepsis involves checking a variety of infectious pathogens and other parameters including vital signs, lab test results. These features are quite diverse among individuals, which makes it chanllege to extract important features. This project aims to analysis the data and try to extract important features for sepsis prediction.
 
