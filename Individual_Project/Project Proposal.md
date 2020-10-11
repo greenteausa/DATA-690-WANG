@@ -30,7 +30,7 @@ The early prediction could help the doctor make valuable and on-time treatment. 
 I want to check
 #1 whether the ICULOS (ICU length-of-stay hours since ICU admit) has relationship with the patient's age, since the older people could have low immunity, or there is some other tendance acccording to age.
 #2 whether man has more chance to get sepsis than women.
-#3 whether the BUN(Blood urea nitrogen), Cretinine, WBC, Hgb(Hemoglobin), Bilirubin_total, glucose and platelets show some diffrence between the people with and withou sepsis.
+#3 whether the BUN(Blood urea nitrogen), Cretinine, WBC, Hgb(Hemoglobin), Bilirubin_total, glucose and platelets show some diffrence between the people with and without sepsis.
 
 
 ### 4. Where do you get the data to help answer your questions? 
@@ -40,13 +40,13 @@ I want to know How to apply machine learning model and predict the future datase
 
 
 ### 5. What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units do you expect to analyze?
-I will use the patients' medical lab result for analysis.
+I will use the patients' medical lab result for analysis. patient is the unit. The dataset includes about 40,000 patients. For each patient, there are several different time points when the vital signs and other measurements were taken to monitor the patients' physiological status. 
 
 ### 6. What variables/measures do you plan to use in your analysis?
 ICULOS(ICU length-of-stay(hours since ICU admit), HospAdmTime, Age, Gender, SepsisLable.
 BUN(Blood urea nitrogen), Cretinine,WBC,Hgb(Hemoglobin), Bilirubin_total, glucose and platelets have some diffrence between the people with and withou sepsis.
 
 ### 7. What kinds of techniques do you you plan to use (for example, summary statistics, scatter plot, bar chart, chi-squared test)? 
-I plan to mainly use Pandas, OS, Numpy, Matplotlib, Seaborn, and I plan to use someothers if needed.
+I plan to mainly use Pandas, OS, Numpy, Matplotlib, Seaborn, and Statsmodels to conduct summary statistics. The results will be visualized by scatter plot, bar chart.
 
-I will review your proposal and provide feedback before you start the actual work.
+### I will review your proposal and provide feedback before you start the actual work.
